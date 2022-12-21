@@ -26,4 +26,8 @@ After the step, I moved to the nxt that was to ensure that every unit, as specif
 
 
 The same process was used in mass and currency conversion.
-In the currency division, we can see USD, JPY and RMP, the respective currency of America, Japan and 
+In the currency division, we can see USD, JPY and RMB, the respective currency of America, Japan and China.
+
+A normal concept of nested if else was used to whether the user will choose depending upon their need.
+
+
