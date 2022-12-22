@@ -18,7 +18,7 @@ Firstly, I had to think about all the variables and the libraries that I was goi
 Then comes the Logic of the program on how to start the initial stage ofthe unit converter project.
 
 
-DevC/C++ was used as the platform to develop the project.
+DevC/C++ was used as the platform to develop the project, later on it was shifted to VS code.
 Then as the project moved on, I had to build the steps or algorithm on what to show, how the user can select if he/she wants to select temperature, currency or mass.
 
 
